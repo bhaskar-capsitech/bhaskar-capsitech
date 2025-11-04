@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 I’m [@bhaxkar](https://bhaxkar.vercel.app/), a tech enthusiast with a solid foundation in Computer Science.
+👋 I’m [@bhaxkar](https://bhaxkar.vercel.app/), a tech enthusiast with a solid foundation in Computer Science.  
 📧 Reach me at [mail](mailto:bhaskarjha.info@gmail.com) and connect with me on [Social link](https://beacons.ai/bhaxkar). 
 
 
